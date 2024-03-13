@@ -1,0 +1,59 @@
+.container-hero{
+    padding-left: 100px;
+    padding-right: 100px;
+    
+}
+
+.container-header{
+   
+        font-family: "PT Serif", serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+
+
+h1{
+    font-family: "PT Serif", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+p{
+    font-family: "PT Serif", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.btn{
+    font-family: "PT Serif", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+h3{
+    font-family: "PT Serif", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.email{
+  padding-top: 20px;
+}
+
+.container-form{
+  
+  margin: auto;
+  height: 200px;
+  width: 550px;
+  
+}
+
+.container-picture{
+  width: 100%;
+}
+
+.tinimage{
+  width: 100%;
+}
+
+
